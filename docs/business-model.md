@@ -5,7 +5,7 @@
   portfolio of the Ministry for Finance (MFIN) -- Competent Authority
   for Public Procurement, Public Procurement Regulations (S.L. 601.03,
   originally Legal Notice 352 of 2016); ePPS (Electronic Public
-  Procurement System) e-tendering portal (see `src/marketentry/facts.cljc`)
+  Procurement System) e-tendering portal (see `src/marketentry/facts.cljk`)
 - Malta Business Registry (MBR, established under S.L. 595.27, led by
   the Registrar of Companies) incorporation record, Companies Act
   (Cap. 386), via the BAROS (Business Automation Registry Online

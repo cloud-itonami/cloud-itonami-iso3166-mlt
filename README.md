@@ -44,7 +44,7 @@ as the other `cloud-itonami-iso3166-*` siblings:
   iso3166 sibling's (see the namespace docstrings for the full research
   trail, including working assumptions that did NOT survive
   verification and gaps this iteration honestly could not close).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies Act
+- `src/statute/facts.cljk` -- general-law catalog: the Companies Act
   (Cap. 386), the Employment and Industrial Relations Act (Cap. 452,
   administered by Jobsplus), the Malta Enterprise Act (Cap. 463) and
   Business Promotion Act (Cap. 325 + S.L. 325.6), and the Income Tax
@@ -78,7 +78,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Malta:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
